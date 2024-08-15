@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Aparrna
-- 👀 I’m interested in ...design and to learn coding and hacking
+- 👀 I’m interested in ...design and web dev
 - 🌱 I’m currently learning ...programming
-- 📫 How to reach me ..ig : @with_kindheart
+  
